@@ -1,6 +1,7 @@
-# myapp
+# I MADE ARYA SUKMAYANA(220040234)
 
-A new Flutter project.
+
+<img width="276" alt="Screenshot 2024-11-26 161730" src="https://github.com/user-attachments/assets/b227a769-5df7-438f-8117-b81f67ae3b9b">
 
 ## Getting Started
 
