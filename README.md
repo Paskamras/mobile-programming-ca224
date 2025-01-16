@@ -1,6 +1,7 @@
-# myapp
+#  I MADE ARYA SUKMAYANA_220040234
 
-A new Flutter project.
+
+![WhatsApp Image 2024-12-19 at 21 17 28_b0bd66c9](https://github.com/user-attachments/assets/9dfb6ff4-ec1c-4754-99d7-1057d655596c)
 
 ## Getting Started
 
